@@ -11,6 +11,10 @@ EYMAA Is a platform that uses Computer Vision to make people learn Arabic Sign L
 - Mediapipe
 - sklearn (RandomForestClassifier)
 - streamlit
+# How to implement 
+- First, run the setup_dataset.py file, (and do not forget to download the dataset that we used) then change the dataset_path at line 42 to your dataset path
+- Second, run the train_the_model.py
+- Third, run the GUI.py file
 # Contributing
 - Nawaf Alburaykan (albrikann@gmail.com)
 - Fahad Alhayan (alhayanfahad@gmail.com)

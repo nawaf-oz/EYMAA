@@ -14,3 +14,5 @@ EYMAA Is a platform that uses Computer Vision to make people learn Arabic Sign L
 # Contributing
 - Nawaf Alburaykan (albrikann@gmail.com)
 - Fahad Alhayan (alhayanfahad@gmail.com)
+# Resources used
+- dataset: [Click me!](https://www.kaggle.com/datasets/muhammadalbrham/rgb-arabic-alphabets-sign-language-dataset)
